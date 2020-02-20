@@ -8,6 +8,7 @@ public class LearningApplication {
 
     public static void main(String[] args) {
         System.out.println("DUPA");
+        System.out.println("Utworzenie brancha deva");
         SpringApplication.run(LearningApplication.class, args);
     }
 
